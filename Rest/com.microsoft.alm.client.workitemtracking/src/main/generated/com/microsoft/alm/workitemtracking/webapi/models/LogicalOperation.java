@@ -53,4 +53,3 @@ public enum LogicalOperation {
         return null;
     }
 }
-}
