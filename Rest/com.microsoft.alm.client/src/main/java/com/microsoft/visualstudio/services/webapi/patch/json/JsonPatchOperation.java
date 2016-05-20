@@ -29,8 +29,8 @@ public class JsonPatchOperation {
     /**
      * The path for the operation
      */
-     public String getPath() {
-        return this.path;
+     public Operation getPath() {
+        return op;
      }
 
     /**
